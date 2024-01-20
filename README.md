@@ -1,2 +1,4 @@
-# ravintolasovellus
-Ravintoloiden tietoja ja arvioita
+# Ravintolasovellus
+Ravintoloiden tietoja ja arvioita "Kuinka valita aihe?" -osion mukaisesti. 
+- asd
+- asd
